@@ -1,0 +1,1 @@
+This is code for a Malaria code detection model, built using Pytorch. This code uses the malaria dataset from the Tensorflow Image library. The best accuracy obtained is 96.26%
